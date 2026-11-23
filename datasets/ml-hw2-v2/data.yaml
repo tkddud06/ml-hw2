@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 3
+names: ['earphone_case', 'handcream', 'pepero']
+
+roboflow:
+  workspace: prosets-workspace
+  project: ml-hw2
+  version: 2
+  license: Private
+  url: https://app.roboflow.com/prosets-workspace/ml-hw2/2

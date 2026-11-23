@@ -1,0 +1,6 @@
+track
+.venv
+# Ultralytics가 만드는 라벨 캐시
+*.cache
+# Roboflow에서 받은 원본 zip
+*.zip
